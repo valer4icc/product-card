@@ -1,9 +1,15 @@
-body{
-    border: 1px solid black;
-    width: 365px ;
-    margin: auto;
+body {
+  border: 1px solid black;
+  width: 365px;
+  margin: auto;
+  padding: 1rem;
 }
 
-img{
-    width: 365px;
+img {
+  width: 365px;
+}
+
+.vitamin-dec {
+  color: rgb(107, 107, 107);
+  font-size: x-large;
 }
