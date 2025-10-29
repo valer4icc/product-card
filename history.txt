@@ -1,0 +1,39 @@
+    1  git init
+    2  git status
+    3  git add .
+    4  git commit -m "Initial commit of index.html"
+    5  git commit -m "Added CSS file and linked it to HTML"
+    6  git add .
+    7  git commit -m "Added CSS file and linked it to HTML"
+    8  git status
+    9  git commit -am "Create new  folder (images) add img images/watermeloen_2.jpg in index.html add h2 price name rating button and input checkbox"
+   10  git add .
+   11  git status --inline
+   12  git status
+   13  git status
+   14  git restore --staged
+   15  git restore --staged images/watermeloen_2.jpg
+   16  git status
+   17  git add
+   18  git add .
+   19  git add images
+   20  git status
+   21  git push
+   22  git status
+   23  git log --oneline
+   24  git commit -am "add in style.css (body style img width)"
+   25  git log --oneline
+   26  git commit -am "add vitamin decor and index.html change raiting"
+   27  git commit -am "add button style buton flex and change checkbox to radio"
+   28  git add .
+   29  git commit -am "body add border-radius and change border color"
+   30  git add .
+   31  git status
+   32  git log
+   33  git checkout <commit-hash>
+   34  git checkout master
+   35  git checkout main
+   36  git add .gitignore
+   37  git commit -m "Added .gitignore to exclude unnecessary files"
+   38  git add 1.gitignore
+   39  history > history.txt
